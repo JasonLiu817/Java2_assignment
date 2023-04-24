@@ -6,11 +6,9 @@ import javafx.stage.Stage;
 import project.Server.MasterServer;
 
 public class ServerLaucher extends Application {
-    public static void main(String[] args) {
-
-        launch(args);
-
-    }
+  public static void main(String[] args) {
+    launch(args);
+  }
 
 
     @Override
